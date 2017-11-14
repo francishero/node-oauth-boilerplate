@@ -1,0 +1,17 @@
+{
+  "name": "oauth-boilerplate",
+  "version": "1.0.0",
+  "description": "Nodejs Open Authorisation bolierplate code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec node app.js"
+  },
+  "author": "Francis Miyoba",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
